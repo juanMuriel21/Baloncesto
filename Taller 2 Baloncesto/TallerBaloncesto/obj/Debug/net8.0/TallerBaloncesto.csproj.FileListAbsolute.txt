@@ -1,0 +1,14 @@
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\bin\Debug\net8.0\TallerBaloncesto.exe
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\bin\Debug\net8.0\TallerBaloncesto.deps.json
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\bin\Debug\net8.0\TallerBaloncesto.runtimeconfig.json
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\bin\Debug\net8.0\TallerBaloncesto.dll
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\bin\Debug\net8.0\TallerBaloncesto.pdb
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.AssemblyInfoInputs.cache
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.AssemblyInfo.cs
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.csproj.CoreCompileInputs.cache
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.dll
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\refint\TallerBaloncesto.dll
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.pdb
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\TallerBaloncesto.genruntimeconfig.cache
+C:\Users\jmuriel\Desktop\Taller 2 Baloncesto\TallerBaloncesto\obj\Debug\net8.0\ref\TallerBaloncesto.dll
